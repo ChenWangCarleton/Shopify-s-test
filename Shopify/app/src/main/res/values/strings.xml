@@ -1,0 +1,4 @@
+<resources>
+    <string name="search_hint">Please input the title to search</string>
+    <string name="app_name">Shopify</string>
+</resources>
